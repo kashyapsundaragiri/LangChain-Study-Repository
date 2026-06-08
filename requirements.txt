@@ -1,0 +1,16 @@
+langchain
+ipykernel
+python-dotenv
+langchain_community
+pypdf
+bs4
+arxiv==1.4.8
+PyMuPDF
+wikipedia
+langchain-text-splitters
+langchain-openai
+chromadb
+sentence-transformers
+langchain-huggingface
+faiss-cpu
+langchain-chroma
