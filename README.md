@@ -1,29 +1,38 @@
-# LangChain Learning Notes
+# LangChain Study Repository
 
-This repository contains my hands-on learning journey with LangChain.
+A collection of hands-on notebooks, experiments, and study notes documenting my journey learning LangChain and Retrieval-Augmented Generation (RAG).
 
 ## Topics Covered
 
-- Text Splitters
-- Embeddings
+- Data Ingestion
+- Text Splitting
+- Embedding Techniques
 - Hugging Face Embeddings
 - Ollama Embeddings
 - ChromaDB
 - FAISS
-- Data Ingestion
+- Retrieval-Augmented Generation (RAG)
 
-## Files
+## Tech Stack
 
-| Notebook | Description |
-|-----------|-------------|
-| text_splitter.ipynb | Text chunking techniques |
-| embedding_techniques.ipynb | Embedding fundamentals |
-| Hugging_face.ipynb | HuggingFace embeddings |
-| ollama_embeddings.ipynb | Ollama embeddings |
-| chroma_db.ipynb | Chroma vector database |
-| faiss.ipynb | FAISS vector search |
-| Data_ingestion.ipynb | Data loading and preprocessing |
+- Python
+- LangChain
+- Hugging Face
+- Ollama
+- ChromaDB
+- FAISS
+- Jupyter Notebook
+
+## Repository Structure
+
+01_Data_Ingestion.ipynb  
+02_Text_Splitter.ipynb  
+03_Embedding_Techniques.ipynb  
+04_HuggingFace_Embeddings.ipynb  
+05_Ollama_Embeddings.ipynb  
+06_ChromaDB.ipynb  
+07_FAISS.ipynb
 
 ## Purpose
 
-This repository is maintained as a personal learning resource and reference for LangChain concepts.
+This repository serves as a personal learning resource and reference for understanding LangChain concepts through practical implementations.
