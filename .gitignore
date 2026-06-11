@@ -1,7 +1,32 @@
-.env
+# Virtual Environment
+
 .venv/
-__pycache__/
+venv/
+rag_env/
+
+# Environment Variables
+
+.env
+
+# Python
+
+**pycache**/
+*.pyc
+
+# Jupyter
+
 .ipynb_checkpoints/
+
+# Vector Databases
 
 chroma_db/
 faiss_index/
+
+# IDE
+
+.idea/
+
+# OS
+
+.DS_Store
+Thumbs.db

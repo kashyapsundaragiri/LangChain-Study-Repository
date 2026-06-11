@@ -1,16 +1,63 @@
-langchain
-ipykernel
-python-dotenv
-langchain_community
-pypdf
-bs4
+# Jupyter
+
+ipykernel==6.29.5
+jupyterlab==4.2.5
+notebook==7.2.2
+
+# LangChain Ecosystem
+
+langchain==0.3.26
+langchain-core==0.3.68
+langchain-community==0.3.26
+langchain-openai==0.3.28
+langchain-text-splitters==0.3.8
+
+# OpenAI
+
+openai==1.99.9
+tiktoken==0.8.0
+
+# Environment Variables
+
+python-dotenv==1.0.1
+
+# Document Loaders
+
+pypdf==5.9.0
+PyMuPDF==1.24.14
+
+# Vector Databases
+
+chromadb==0.5.23
+faiss-cpu==1.8.0.post1
+
+# HuggingFace
+
+sentence-transformers==3.0.1
+langchain-huggingface==0.1.2
+transformers==4.44.2
+huggingface-hub==0.24.6
+
+# Web Scraping
+
+beautifulsoup4==4.12.3
+bs4==0.0.2
+lxml==5.3.0
+
+# Search Utilities
+
+wikipedia==1.4.0
 arxiv==1.4.8
-PyMuPDF
-wikipedia
-langchain-text-splitters
-langchain-openai
-chromadb
-sentence-transformers
-langchain-huggingface
-faiss-cpu
-langchain-chroma
+
+# Data
+
+numpy==1.26.4
+pandas==2.2.3
+
+# Networking
+
+requests==2.32.3
+
+# Validation
+
+pydantic==2.10.6
